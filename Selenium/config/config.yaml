@@ -1,0 +1,5 @@
+base_url: "https://practicesoftwaretesting.com/"
+browser: chrome
+headless: false
+implicit_wait: 5
+page_load_timeout: 30

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="banking_schema.sql (1)" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/sql_banking/database/banking_schema.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="88ca4a22-bd95-4ac6-b036-27c6af8e6a6d" />
+    <method v="2" />
+  </configuration>
+</component>

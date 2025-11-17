@@ -1,0 +1,10 @@
+pytest
+selenium>=4.10.0
+webdriver-manager
+pyyaml
+pyautogui
+pandas
+requests
+pytest-html
+allure-pytest
+python-dotenv
